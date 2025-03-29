@@ -2,8 +2,6 @@
 
 A simple and user-friendly calculator app built with **HTML**, **CSS**, and **JavaScript**. It supports basic arithmetic operations, percentage calculations, and square calculations.
 
-![alt text](image.png)
-
 ## Features
 
 - **Basic Operations**: Addition (`+`), subtraction (`-`), multiplication (`*`), and division (`/`).
