@@ -57,7 +57,7 @@ A simple and user-friendly calculator app built with **HTML**, **CSS**, and **Ja
 
 ## Screenshots
 
-![Calculator App Screenshot](images/calculator-app.png)
+![Calculator App Screenshot](image.png)
 
 ## Technologies Used
 
